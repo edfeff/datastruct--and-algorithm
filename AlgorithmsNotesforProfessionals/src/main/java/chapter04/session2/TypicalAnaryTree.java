@@ -1,4 +1,4 @@
-package chapter04;
+package chapter04.session2;
 
 /**
  * 树的遍历
