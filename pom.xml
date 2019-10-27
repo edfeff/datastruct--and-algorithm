@@ -9,9 +9,10 @@
     <version>1.0.0</version>
     <modules>
         <module>AlgorithmsNotesforProfessionals</module>
+        <module>DataStructuresTutorial</module>
     </modules>
     <packaging>pom</packaging>
-    <name>PARENT-DATASTRUCT--AND-ALGORITHM</name>
+    <name>Parent-Datastruct--and-Algorithm</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
